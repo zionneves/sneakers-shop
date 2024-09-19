@@ -1,4 +1,4 @@
-# Sneakers Shop App
+# Sneakers do Blayton
 > E-Commerce App built with the MERN stack.
 
 This is a sample application that demonstrates an E-commerce website using the MEAN stack.
